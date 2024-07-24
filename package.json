@@ -1,5 +1,5 @@
 {
-  "name": "use-query-string-navigation",
+  "name": "next-query-string-navigation",
   "version": "0.0.1",
   "description": "React hook to be used on NextJS components to trigger url based navigation",
   "main": "dist/index.js",
@@ -9,29 +9,32 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/juarezs/use-query-string-navigation.git"
+    "url": "git+https://github.com/juarezs/next-query-string-navigation.git"
   },
   "keywords": [
     "react",
     "next",
     "nextjs",
     "hook",
+    "navigation",
     "queryparams",
     "query-params",
     "querystring",
     "query-string",
-    "navigation"
+    "search-params",
+    "search-Params",
+    "use-router"
   ],
   "author": "Juarez Schulz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/juarezs/use-query-string-navigation/issues"
+    "url": "https://github.com/juarezs/next-query-string-navigation/issues"
   },
-  "homepage": "https://github.com/juarezs/use-query-string-navigation#readme",
+  "homepage": "https://github.com/juarezs/next-query-string-navigation#readme",
   "peerDependencies": {
     "@types/react": "^16.8.0 || ^17.0.0 || ^18.0.0",
-    "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
-    "next": "^13.0.0 || ^14.0.0"
+    "next": "^13.0.0 || ^14.0.0",
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0"
   },
   "devDependencies": {
     "typescript": "^5.5.4"
