@@ -1,0 +1,34 @@
+{
+  "name": "use-query-string-navigation",
+  "version": "1.0.0",
+  "description": "A React hook for triggering navigation updating query string",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juarezs/use-query-string-navigation.git"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "querystring",
+    "navigation"
+  ],
+  "author": "Juarez Schulz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juarezs/use-query-string-navigation/issues"
+  },
+  "homepage": "https://github.com/juarezs/use-query-string-navigation#readme",
+  "peerDependencies": {
+    "@types/react": "^16.8.0 || ^17.0.0 || ^18.0.0",
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
+    "next": "^13.0.0 || ^14.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
