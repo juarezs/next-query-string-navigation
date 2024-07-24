@@ -1,7 +1,7 @@
 {
   "name": "use-query-string-navigation",
-  "version": "1.0.0",
-  "description": "A React hook for triggering navigation updating query string",
+  "version": "1.0.1",
+  "description": "React hook to be used on NextJS components to trigger url based navigation",
   "main": "index.js",
   "scripts": {
     "start": "tsc && node dist/index.js",
@@ -13,6 +13,8 @@
   },
   "keywords": [
     "react",
+    "next",
+    "nextjs",
     "hook",
     "querystring",
     "navigation"
