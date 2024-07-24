@@ -1,8 +1,8 @@
 {
   "name": "use-query-string-navigation",
-  "version": "1.0.1",
+  "version": "0.0.1",
   "description": "React hook to be used on NextJS components to trigger url based navigation",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "start": "tsc && node dist/index.js",
     "build": "tsc"
@@ -16,7 +16,10 @@
     "next",
     "nextjs",
     "hook",
+    "queryparams",
+    "query-params",
     "querystring",
+    "query-string",
     "navigation"
   ],
   "author": "Juarez Schulz",
