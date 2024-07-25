@@ -27,9 +27,6 @@ const handleSort = (sort: string) => {
 };
 
 const doFilter = (newFilter: string) => {
-  if (!newFilter && !query) {
-    return;
-  }
   changeQueryStringParams({"pageNumber": "1", "query": newFilter});
 };
 ```

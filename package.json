@@ -1,6 +1,6 @@
 {
   "name": "next-query-string-navigation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React hook to be used on NextJS components to trigger url based navigation",
   "main": "dist/index.js",
   "scripts": {
